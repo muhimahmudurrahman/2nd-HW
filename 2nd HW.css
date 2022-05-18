@@ -1,103 +1,129 @@
-h1{
+h1 {
     text-align: center;
     border: 2px solid black;
     margin-left: 30%;
     margin-right: 30%;
     background-color: antiquewhite;
 }
-.red{
+
+.red {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    border: 3px;
+    float: left;
+    width: 30%;
     background-color: red;
-    font-size: 400%;
+    border: 3px solid black;
 }
-.green{
+
+.green {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 50px;
+    border: 3px solid black;
+    width: 30%;
     background-color: green;
-    font-size: 400%;
-  }
-.blue{
+    margin-top: 20p
+}
+
+.blue {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    border: 3px;
+    float: right;
+    width: 30%;
     background-color: blue;
-    font-size: 400%;
+    border: 3px solid black;
 }
-.yellow{
+
+.yellow {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    border: 3px;
+    float: left;
+    width: 30%;
     background-color: yellow;
-    font-size: 400%;
+    border: 3px solid black;
+    margin-top: 20px;
 }
-.violet{
+
+.violet {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 50px;
+    border: 3px solid black;
+    width: 30%;
     background-color: violet;
-    font-size: 400%;
+    margin-top: 20px;
 }
-.indigo{
+
+.indigo {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    border: 3px;
+    float: right;
+    width: 30%;
     background-color: indigo;
-    font-size: 400%;
+    border: 3px solid black;
+    margin-top: 20px;
 }
-.orange{
+
+.orange {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    border: 3px;
+    float: left;
+    width: 30%;
     background-color: orange;
-    font-size: 400%;
+    border: 3px solid black;
+    margin-top: 20px;
 }
-.brown{
+
+.brown {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 50px;
+    border: 3px solid black;
+    width: 30%;
     background-color: brown;
-    font-size: 400%;
+    margin-top: 20px;
 }
-.black{
+
+.black {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    border: 3px;
+    float: right;
+    width: 30%;
     background-color: black;
-    font-size: 400%;
+    border: 3px solid black;
+    margin-top: 20px;
+    color: white;
 }
-.white{
+
+.white {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    border: 3px solid black;
+    margin-top: 20px;
+    float: left;
     background-color: white;
-    font-size: 400%;
+    width: 30%;
 }
-.pink{
+
+.pink {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    margin-left: 35%;
+    margin-right: 35%;
+    height: 50px;
+    border: 3px solid black;
+    width: 30%;
     background-color: pink;
-    font-size: 400%;
+    margin-top: 20px;
 }
-.purple{
+
+.purple {
     text-align: center;
-    border: 2px solid black;
-    margin-left: 30%;
-    margin-right: 30%;
+    border: 3px;
+    float: right;
+    width: 30%;
     background-color: purple;
-    font-size: 400%;
+    border: 3px solid black;
+    margin-top: 20px;
 }
